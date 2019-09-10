@@ -40,6 +40,8 @@ namespace GraphicExamples
 
             //Writing
             g.DrawString("Hello\nHow are you?", drawFont, drawBrush, 500, 40);
+
+            //This is a test comment
         }
     }
 }
